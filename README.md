@@ -40,5 +40,13 @@ The mean absolute error for our regression models were the following:
 We chose players from the following models:
 Goalkeeper, Defence, and Attack
 
+**Players that we chose:**
 
+M. Neuer predicted OVA = 88, value = €29M
+
+L. Suárez	predicted OVA = 87,   value = €31.5M
+
+P. Lahm predicted OVA = 87, value = €29.5M
+
+Budget: 90m remaining 10m
 
