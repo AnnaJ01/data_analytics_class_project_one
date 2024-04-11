@@ -12,8 +12,11 @@ Build a regression model based on the train data set to predict the OVA score fo
 What we did:
 
 •	We looked and analyzed the data and realized that different positions had different stats
+
 •	Created 4 regression models for 4 different categories: Goalkeeper, Defence, Midfield and Attack 
+
 •	Applied this data to the test data (seperated this data also into 4 postiions: Goalkeeper, Defence, Midfield and Attack)
+
 •	Got the 3 footballers with the highest OVA and under the budget
 
 The mean absolute error for our regression models were the following:
