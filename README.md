@@ -26,6 +26,7 @@ The mean absolute error for our regression models were the following:
 0.2745587887799759
 
 **Defence**
+
 1.00683400767267
 
 **Midfield** 
