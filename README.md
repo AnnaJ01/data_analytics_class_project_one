@@ -11,7 +11,7 @@ Build a regression model based on the train data set to predict the OVA score fo
 
 What we did:
 
-•	We looked and analyzed the data and realized that different positions had different stats
+•	We started by studying the data and noticed that different types of players had different abilities and playing styles. For example, a goalkeeper has different skills than a midfielder or a defender.
 
 •	Created 4 regression models for 4 different categories: Goalkeeper, Defence, Midfield and Attack 
 
@@ -19,7 +19,7 @@ What we did:
 
 •	Got the 3 footballers with the highest OVA and under the budget
 
-The mean absolute error for our regression models were the following:
+The mean absolute error (MAE) for our regression models – a measure of how accurate our predictions were – were as follows:
 
 **Goalkeeper**
 
@@ -49,5 +49,6 @@ L. Suárez	predicted OVA = 87,   value = €31.5M
 
 P. Lahm predicted OVA = 87, value = €29.5M
 
-Budget: 90m remaining 10m
+
+We had €100 million in the beginning. After selecting the three players, we were left with €10 million, successfully managing to stay within our budget while selecting top-rated players.
 
